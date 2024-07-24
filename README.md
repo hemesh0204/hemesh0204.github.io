@@ -1,6 +1,6 @@
-# Hemesh Portfolio
+# Hemesh's Portfolio
 # About Me
-Hey, my name is Hemesh. I am a Computer Science Engineer specializing in data science, but I have been expanding my knowledge to include database architecture, machine learning, and front-end development. I am pursuing my master's in Computer Science at Indiana University Bloomington. Since I was young, I have always enjoyed solving puzzles. This passion drives my approach to big data sets: to me, they are large puzzles waiting to be solved. I relish the challenge of finding patterns that others might overlook. Lastly, I have an insatiable love for learning. Every day, I strive to learn something new, whether it's about machine learning, software engineering, or fascinating facts about the universe.
+I am a Computer Science Engineer specializing in data science, but I have been expanding my knowledge to include database architecture, machine learning, and front-end development. I am pursuing my master's in Computer Science at Indiana University Bloomington. Since I was young, I have always enjoyed solving puzzles. This passion drives my approach to big data sets: to me, they are large puzzles waiting to be solved. I relish the challenge of finding patterns that others might overlook. Lastly, I have an insatiable love for learning. Every day, I strive to learn something new, whether it's about machine learning, software engineering, or fascinating facts about the universe.
 
 # Technical Skills
 
