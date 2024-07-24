@@ -1,56 +1,58 @@
-# Data Scientist
+# Hemesh Portfolio
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+
+
+## About Me
+Hey, my name is Hemesh. I am a Computer Science Engineer specializing in data science, but I have been expanding my knowledge to include database architecture, machine learning, and front-end development. I am pursuing my master's in Computer Science at Indiana University Bloomington. Since I was young, I have always enjoyed solving puzzles. This passion drives my approach to big data sets: to me, they are large puzzles waiting to be solved. I relish the challenge of finding patterns that others might overlook. Lastly, I have an insatiable love for learning. Every day, I strive to learn something new, whether it's about machine learning, software engineering, or fascinating facts about the universe.
+
+## Technical Skills
+
+**Languages**: Java, Python, C/C++, SQL, NoSQL, HTML/CSS, JavaScript, R, Pyspark, TypeScript
+**Frameworks**: React, Flask, Django, Hadoop, Express.js
+**Developer Tools**: Git, Docker, Visual Studio, PyCharm, IntelliJ, Tableau, AWS, Jenkins, Jira
+**Libraries**: Pandas, NumPy, Matplotlib, Sklearn, TensorFlow, PyTorch
+
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Computer Science | Indiana University Bloomington (_August 2023 - May 2025_), GPA: 3.76/4											       		
+- B.TECH., Computer Science | Amrita Vishwa Vidyapeetham (August 2019 - May 2023), GPA: 8.63/10 			        		
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Engineer Intern @ Reinsurance Group of America (_June 2024 - Present_)**
+- Developed and deployed a Lambda function to turn off unused EC2 instances based on 24-hour automatic activity logs, significantly improving resource efficiency.
+- Integrated the automation process with Jenkins for seamless deployment and utilized Datadog for monitoring and notifications, ensuring real-time updates were sent to a Slack channel whenever instances were turned off.
+- Achieved substantial cost savings of approximately $1,000 over one month by optimizing EC2 usage and minimizing unnecessary running instances.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Scientist Intern @ New Pro Data (_February 2023 - April 2023_)**
+- Developed a robust resume parsing algorithm with NLP, achieving 95% accuracy in extracting work experience, projects, education, skills, and key highlights, reducing manual effort by 60%.
+- Employed data cleaning and ranking pipelines for 93% accurate job matching.
+- Built and integrated an HR chatbot using Django, enhancing candidate screening and improving recruitment efficiency.
+
+**Data Analyst Intern @ The Sparks Foundation (_August 2021 - September 2021_)**
+- Conducted EDA on US supermarkets using Matplotlib, Seaborn, Scipy, and Plotly, identifying operational inefficiencies and reducing inventory costs by 20%.
+- Leveraged insights from top-performing areas to make data-driven recommendations for improvement.
+- Identified top-performing areas within the supermarket and analyzed the factors contributing to their success.
+
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### **Algae Classification | Python, TensorFlow (_January 2024 - May 2024_)**
+- Processed microscopic algae image data from a FlowCam DB dump by the City of Bloomington, including augmentation to enhance dataset quality.
+- Implemented and evaluated CNN, AlexNet, and ViT models, achieving 98% top-5 classification accuracy, and enhancing algae identification reliability.
+- Deployed the model in the Bloomington government office, integrated with human and statistical predictions, and added to a pipeline starting from preprocessing to result display, reducing bacteria identification time by 50%.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### **Mental Health Prediction | Python, Sklearn, TensorFlow (_May 2021 - June 2021_)**
+- Built a predictive model using machine learning to assess mental health status based on diverse behavioural and demographic data, enabling early intervention.
+- Applied advanced data preprocessing techniques to the Kaggle dataset, employing a range of models including regression, classification, decision trees, and boosting.
+- Developed an ADA Boost model that achieved a commendable 81% accuracy rate.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### **Movie Ticket Booking Application | MERN Stack, Stripe (_January 2024 - May 2024_)**
+- Developed a comprehensive theatre management application with separate interfaces for Users, Admins, and Theatre Owners, incorporating JWT Authentication and BCrypt password hashing.
+- Integrated Ant Design for customized UI components and Redux Toolkit for efficient state management, enabling functionalities such as movie uploads, show management, and real-time seat availability checking.
+- Deployed the application on Render with automated GitHub integration, implemented Stripe for secure payments, and managed user roles and tickets via an intuitive admin panel.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### **Library Management System | Python, Django, MySQL (_April 2021 - May 2021_)**
+- Created a highly efficient and user-centric Library Management System emphasizing user-friendliness.
+- Implemented an efficient binary search algorithm for book retrieval, resulting in a 50% improvement in search speed.
+- Enabled librarians to manage books, transactions, and finances, and students to check book availability and expected return dates.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
 
