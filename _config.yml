@@ -3,3 +3,10 @@ logo: /assets/img/headshot_image.jpeg
 description: Compute Science Engineer
 show_downloads: true
 theme: jekyll-theme-minimal
+
+social:
+  twitter: https://twitter.com/your_twitter_handle
+  linkedin: https://www.linkedin.com/in/your_linkedin_handle
+  github: https://github.com/hemesh0204
+
+
