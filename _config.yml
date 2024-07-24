@@ -1,12 +1,13 @@
 title: Hemesh Raaja Malathi
 logo: /assets/img/headshot_image.jpeg
 description: |
-  Compute Science Engineer
+  Computer Science Engineer
 
-  <ul>
-    <li><a href="https://www.linkedin.com/in/hemesh-r-m/">LinkedIn</a></li>
-    <li><a href="mailto:hemesh0204@gmail.com">Contact Me</a></li>
-  </ul>
+ 
+    <a href="https://www.linkedin.com/in/hemesh-r-m/">LinkedIn</a> <br>
+    <a href="mailto:hemesh0204@gmail.com">Contact Me</a> <br>
+    <a href="/assets/Resume_Hemesh_Raaja_Malathi.pdf" download>Get My Resume</a> <br>
+ 
 show_downloads: true
 theme: jekyll-theme-minimal
 
