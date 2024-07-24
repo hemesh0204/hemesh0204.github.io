@@ -1,8 +1,8 @@
-
-## About Me
+# Hemesh Portfolio
+# About Me
 Hey, my name is Hemesh. I am a Computer Science Engineer specializing in data science, but I have been expanding my knowledge to include database architecture, machine learning, and front-end development. I am pursuing my master's in Computer Science at Indiana University Bloomington. Since I was young, I have always enjoyed solving puzzles. This passion drives my approach to big data sets: to me, they are large puzzles waiting to be solved. I relish the challenge of finding patterns that others might overlook. Lastly, I have an insatiable love for learning. Every day, I strive to learn something new, whether it's about machine learning, software engineering, or fascinating facts about the universe.
 
-## Technical Skills
+# Technical Skills
 
 - **Languages**: C/C++, Java, Python, JavaScript, TypeScript, HTML/CSS, SQL, R
 
@@ -19,28 +19,31 @@ Hey, my name is Hemesh. I am a Computer Science Engineer specializing in data sc
 - **Libraries**: Pandas, NumPy, Matplotlib, Sklearn, TensorFlow, PyTorch
 
 
-## Education
+# Education
 - M.S., Computer Science | Indiana University Bloomington (_August 2023 - May 2025_), GPA: 3.76/4											       		
-- B.TECH., Computer Science | Amrita Vishwa Vidyapeetham (August 2019 - May 2023), GPA: 8.63/10 			        		
+- B.TECH., Computer Science | Amrita Vishwa Vidyapeetham (August 2019 - May 2023), GPA: 8.63/10
 
-## Work Experience
-**Data Engineer Intern @ Reinsurance Group of America (_June 2024 - Present_)**
+## Relevant Coursework
+Data Structure and Algorithm, Machine Learning, Artificial Intelligence, Computer Vision, Database Management System, Natural Language Processing, Business Analytics, Distributed Systems, Cloud Computing, Operating Systems, Computer Networks, Computer Architecture, Software Engineering
+
+# Work Experience
+### **Data Engineer Intern @ Reinsurance Group of America (_June 2024 - Present_)**
 - Developed and deployed a Lambda function to turn off unused EC2 instances based on 24-hour automatic activity logs, significantly improving resource efficiency.
 - Integrated the automation process with Jenkins for seamless deployment and utilized Datadog for monitoring and notifications, ensuring real-time updates were sent to a Slack channel whenever instances were turned off.
 - Achieved substantial cost savings of approximately $1,000 over one month by optimizing EC2 usage and minimizing unnecessary running instances.
 
-**Data Scientist Intern @ New Pro Data (_February 2023 - April 2023_)**
+### **Data Scientist Intern @ New Pro Data (_February 2023 - April 2023_)**
 - Developed a robust resume parsing algorithm with NLP, achieving 95% accuracy in extracting work experience, projects, education, skills, and key highlights, reducing manual effort by 60%.
 - Employed data cleaning and ranking pipelines for 93% accurate job matching.
 - Built and integrated an HR chatbot using Django, enhancing candidate screening and improving recruitment efficiency.
 
-**Data Analyst Intern @ The Sparks Foundation (_August 2021 - September 2021_)**
+### **Data Analyst Intern @ The Sparks Foundation (_August 2021 - September 2021_)**
 - Conducted EDA on US supermarkets using Matplotlib, Seaborn, Scipy, and Plotly, identifying operational inefficiencies and reducing inventory costs by 20%.
 - Leveraged insights from top-performing areas to make data-driven recommendations for improvement.
 - Identified top-performing areas within the supermarket and analyzed the factors contributing to their success.
 
 
-## Projects
+# Projects
 ### **Algae Classification | Python, TensorFlow (_January 2024 - May 2024_)**
 - Processed microscopic algae image data from a FlowCam DB dump by the City of Bloomington, including augmentation to enhance dataset quality.
 - Implemented and evaluated CNN, AlexNet, and ViT models, achieving 98% top-5 classification accuracy, and enhancing algae identification reliability.
