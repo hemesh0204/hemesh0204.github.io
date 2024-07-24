@@ -4,19 +4,19 @@ Hey, my name is Hemesh. I am a Computer Science Engineer specializing in data sc
 
 ## Technical Skills
 
-**Languages**: C/C++, Java, Python, JavaScript, TypeScript, HTML/CSS, SQL, R
+- **Languages**: C/C++, Java, Python, JavaScript, TypeScript, HTML/CSS, SQL, R
 
-**Frameworks**: React, Node.js, Express, Flask, Django
+- **Frameworks**: React, Node.js, Express, Flask, Django
 
-**Databases**: MySQL, MongoDB
+- **Databases**: MySQL, MongoDB
 
-**Tools**: Git, GitHub, VS Code, PyCharm, Eclipse, Jupyter Notebook, Postman, Heroku, Docker, Kubernetes
+- **Tools**: Git, GitHub, VS Code, PyCharm, Eclipse, Jupyter Notebook, Postman, Heroku, Docker, Kubernetes
 
-**Cloud**: AWS
+- **Cloud**: AWS
 
-**Operating Systems**: Windows, Linux, macOS
+- **Operating Systems**: Windows, Linux, macOS
 
-**Libraries**: Pandas, NumPy, Matplotlib, Sklearn, TensorFlow, PyTorch
+- **Libraries**: Pandas, NumPy, Matplotlib, Sklearn, TensorFlow, PyTorch
 
 
 ## Education
