@@ -1,20 +1,15 @@
-
+title: Hemesh Raaja Malathi
+logo: /assets/img/headshot_image.jpeg
 description: |
-  <div style="text-align: center;">
-  <h1>Hemesh Raaja Malathi</h1>
-    <img src="/assets/img/headshot_image.jpeg" alt="Hemesh Raaja Malathi" style="border-radius: 50%; width: 150px; height: 150px;">
-    
-    <p>Compute Science Engineer</p>
-    <ul style="list-style: none; padding: 0;">
-      <li><a href="https://twitter.com/your_twitter_handle">Twitter</a></li>
-      <li><a href="https://www.linkedin.com/in/your_linkedin_handle">LinkedIn</a></li>
-      <li><a href="https://github.com/your_github_handle">GitHub</a></li>
-      <li><a href="https://www.facebook.com/your_facebook_handle">Facebook</a></li>
-      <li><a href="https://www.instagram.com/your_instagram_handle">Instagram</a></li>
-    </ul>
-  </div>
+  Compute Science Engineer
+
+  <ul>
+    <li><a href="https://www.linkedin.com/in/hemesh-r-m/">LinkedIn</a></li>
+    <li><a href="mailto:hemesh0204@gmail.com">Contact Me</a></li>
+  </ul>
 show_downloads: true
 theme: jekyll-theme-minimal
+
 
 
 
