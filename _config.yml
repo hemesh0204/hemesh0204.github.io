@@ -1,12 +1,13 @@
 title: Hemesh Raaja Malathi
 logo: /assets/img/headshot_image.jpeg
-description: Compute Science Engineer
-show_downloads: true
+description: |
+  Compute Science Engineer
+
+  - [LinkedIn](https://www.linkedin.com/in/hemesh-r-m/)
+  - [GitHub](https://github.com/hemesh0204)
+
+show_downloads: false
 theme: jekyll-theme-minimal
 
-social:
-  twitter: https://twitter.com/your_twitter_handle
-  linkedin: https://www.linkedin.com/in/your_linkedin_handle
-  github: https://github.com/hemesh0204
 
 
