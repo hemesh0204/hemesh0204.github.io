@@ -1,15 +1,21 @@
-# Hemesh Portfolio
-
-
 
 ## About Me
 Hey, my name is Hemesh. I am a Computer Science Engineer specializing in data science, but I have been expanding my knowledge to include database architecture, machine learning, and front-end development. I am pursuing my master's in Computer Science at Indiana University Bloomington. Since I was young, I have always enjoyed solving puzzles. This passion drives my approach to big data sets: to me, they are large puzzles waiting to be solved. I relish the challenge of finding patterns that others might overlook. Lastly, I have an insatiable love for learning. Every day, I strive to learn something new, whether it's about machine learning, software engineering, or fascinating facts about the universe.
 
 ## Technical Skills
 
-**Languages**: Java, Python, C/C++, SQL, NoSQL, HTML/CSS, JavaScript, R, Pyspark, TypeScript
-**Frameworks**: React, Flask, Django, Hadoop, Express.js
-**Developer Tools**: Git, Docker, Visual Studio, PyCharm, IntelliJ, Tableau, AWS, Jenkins, Jira
+**Languages**: C/C++, Java, Python, JavaScript, TypeScript, HTML/CSS, SQL, R
+
+**Frameworks**: React, Node.js, Express, Flask, Django
+
+**Databases**: MySQL, MongoDB
+
+**Tools**: Git, GitHub, VS Code, PyCharm, Eclipse, Jupyter Notebook, Postman, Heroku, Docker, Kubernetes
+
+**Cloud**: AWS
+
+**Operating Systems**: Windows, Linux, macOS
+
 **Libraries**: Pandas, NumPy, Matplotlib, Sklearn, TensorFlow, PyTorch
 
 
