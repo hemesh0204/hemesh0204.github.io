@@ -6,6 +6,14 @@ description: |
   - [LinkedIn](https://www.linkedin.com/in/hemesh-r-m/)
   - [GitHub](https://github.com/hemesh0204)
 
+  <ul>
+    <li><a href="https://twitter.com/your_twitter_handle">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/in/hemesh-r-m/">LinkedIn</a></li>
+    <li><a href="https://github.com/your_github_handle">GitHub</a></li>
+    <li><a href="https://www.facebook.com/your_facebook_handle">Facebook</a></li>
+    <li><a href="https://www.instagram.com/your_instagram_handle">Instagram</a></li>
+  </ul>
+
 show_downloads: false
 theme: jekyll-theme-minimal
 
