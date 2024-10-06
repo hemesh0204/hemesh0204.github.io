@@ -44,15 +44,21 @@ Data Structure and Algorithm, Machine Learning, Artificial Intelligence, Compute
 
 
 # Projects
+
+### **[Football Analysis](https://github.com/hemesh0204/football-analysis) | Python, YOLOv8, OpenCV, Pytorch, KMeans (_May 2024 - September 2024_)**
+- Built an AI-powered football analysis system using YOLOv8 for real-time object detection and tracking of players, referees, and the ball in match footage.
+- Applied KMeans clustering to accurately assign players to teams based on jersey colour, integrating optical flow for camera movement detection and tracking corrections.
+- Leveraged perspective transformation to compute player speed and distance covered, producing performance metrics in real-world units.
+  
 ### **Algae Classification | Python, TensorFlow (_January 2024 - May 2024_)**
-- Processed microscopic algae image data from a FlowCam DB dump by the City of Bloomington, including augmentation to enhance dataset quality.
+- Microscopic algae image data was processed from a FlowCam DB dump by the City of Bloomington, including augmentation to enhance dataset quality.
 - Implemented and evaluated CNN, AlexNet, and ViT models, achieving 98% top-5 classification accuracy, and enhancing algae identification reliability.
-- Deployed the model in the Bloomington government office, integrated with human and statistical predictions, and added to a pipeline starting from preprocessing to result display, reducing bacteria identification time by 50%.
+- The model was deployed in the Bloomington government office, integrated with human and statistical predictions, and added to a pipeline from preprocessing to result display, reducing bacteria identification time by 50%.
 
 ### **Mental Health Prediction | Python, Sklearn, TensorFlow (_May 2021 - June 2021_)**
 - Built a predictive model using machine learning to assess mental health status based on diverse behavioural and demographic data, enabling early intervention.
 - Applied advanced data preprocessing techniques to the Kaggle dataset, employing a range of models including regression, classification, decision trees, and boosting.
-- Developed an ADA Boost model that achieved a commendable 81% accuracy rate.
+- Developed an ADA Boost model with a commendable 81% accuracy rate.
 
 ### **Movie Ticket Booking Application | MERN Stack, Stripe (_January 2024 - May 2024_)**
 - Developed a comprehensive theatre management application with separate interfaces for Users, Admins, and Theatre Owners, incorporating JWT Authentication and BCrypt password hashing.
